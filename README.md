@@ -5,31 +5,31 @@
 ---
 
 - [Interview-Questions](#interview-questions)
-    - [1. JavaScript](#1-javascript)
-    - [2. ](#2-)
-    - [3. ](#3-)
-    - [4. ](#4-)
-    - [5. ](#5-)
-    - [6. ](#6-)
-    - [7. ](#7-)
+    - [JavaScript](#javascript)
+    - [React](#react)
+    - [Redux](#redux)
+    - [TypeScript](#typescript)
+    - [HTML, CSS](#html-css)
+    - [CS](#cs)
+    - [ETC](#etc)
 
 ---
 
-### 1. JavaScript
+### JavaScript
 
-<details>
+<details open>
     <summary>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript Badge">
+        <span>QUESTION LIST</span>
     </summary>
 </details>
 
 ---
 
-### 2. <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="React Badge" height="20" style="margin-right: 10px;">
+### React
 
-<details>
+<details open>
     <summary>
-        <strong style="font-size: 20px; margin: 0;">React</strong>    
+        <span>QUESTION LIST</span>
     </summary>
 
 - [왜 state를 직접 변경하지 않고, useState를 사용해야 하나요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/state%20vs%20useState.md)
@@ -40,11 +40,11 @@
 
 ---
 
-### 3. <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" alt="Redux Badge" height="20" style="margin-right: 10px;">
+### Redux
 
-<details>
+<details open>
     <summary>
-        <strong style="font-size: 20px; margin: 0;">Redux</strong>
+        <span>QUESTION LIST</span>
     </summary>
 
 - [Context API와 Redux를 비교해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/Context%20API%20vs%20Redux.md)
@@ -53,44 +53,44 @@
 
 ---
 
-### 4. <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript Badge" height="20" style="margin-right: 10px;">
+### TypeScript
 
-<details>
+<details open>
 <summary>
-    <strong style="font-size: 20px; margin: 0;">TypeScript</strong>
+    <span>QUESTION LIST</span>
 </summary>
 
 </details>
 
 ---
 
-### 5. <img src="https://img.shields.io/badge/HTML,CSS-1572B6?style=flat&logo=HTML5&logoColor=white" alt="HTML,CSS Badge" height="20" style="margin-right: 10px;">
+### HTML, CSS
 
-<details>
+<details open>
 <summary>
-    <strong style="font-size: 20px; margin: 0;">HTML,CSS</strong>
+    <span>QUESTION LIST</span>
 </summary>
 
 </details>
 
 ---
 
-### 6. <img src="https://img.shields.io/badge/💻 CS-000000?style=flat&logo=Computer-Science&logoColor=white" alt="CS Badge" height="20" style="margin-right: 10px;">
+### CS
 
-<details>
+<details open> 
 <summary>
-    <strong style="font-size: 20px; margin: 0;">CS</strong>
+    <span>QUESTION LIST</span>
 </summary>
 
 </details>
 
 ---
 
-### 7. <img src="https://img.shields.io/badge/ETC-FFD700?style=flat&logo=Star&logoColor=white" alt="ETC Badge" height="20" style="margin-right: 10px;">
+### ETC
 
 <details>
 <summary>
-    <strong style="font-size: 20px; margin: 0;">ETC</strong>
+    <span>QUESTION LIST</span>
 </summary>
 
 </details>
