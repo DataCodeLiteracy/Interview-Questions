@@ -21,6 +21,8 @@
     <summary>
         <span>QUESTION LIST</span>
     </summary>
+
+- [클래스 내에 static 키워드가 선언된 정적 메서드는 기본 메서드와 어떤 차이점을 갖고 있을까요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/class%20static%20method.md)
 </details>
 
 ---
@@ -92,7 +94,15 @@
 </summary>
 
 - [이벤트 루프의 틱(Tick)이나 프레임(Frame)은 무엇인가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/Tick%2CFrame.md)
-
+- [쿠키와 웹스토리지,데이터베이스에 대해서 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/CS/cookie%20webstorage%20db.md)
+- [웹 서버와 웹 어플리케이션 서버의 차이점에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/CS/webserver%20webapplication%20server.md)
+- [캐시의 종류에는 어떤 것들이 있나요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/CS/Types%20of%20cash.md)
+- [인증 예시와 인가 예시에는 어떤 것들이 있나요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/CS/authentication%2C%20authorization.md)
+- [indexedDB에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/CS/indexedDB.md)
+- [JWT는 서버에 의존성을 가지고 있나요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/CS/jwt%20server%20dependency.md)
+- [로그인했을 때 로컬 스토리지가 아니라 쿠키에 저장하는 이유는 무엇인가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/CS/login%20cookie.md)
+- [세션의 기능과 관리 방식에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/CS/session%20function.md)
+- [웹 서버와 웹 어플리케이션 서버의 차이점에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/CS/webserver%20webapplication%20server.md)
 </details>
 
 ---
