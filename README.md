@@ -43,7 +43,7 @@
 - [리액트에서 JSX 문법이 어떻게 사용되나요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/f959e32f439c3263290c677a6590eac153506c27/React/JSX.md)
 - [제어 컴포넌트와 비제어 컴포넌트의 차이에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/29afe718b41aeb907a7a3c8e7228854a9268885e/React/controlled%20vs%20Uncontrolled.md)
 - [리액트에서 key props를 사용하는 이유는 무엇인가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/key%20props.md)
-- [인덱스를 key로 사용하는 것이 성능에 영향을 줄 수 있는 이유는 무엇인가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/index%20key.md)
+- [props와 state의 차이는 무엇인가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/props%20vs%20state.md)
 
 </details>
 

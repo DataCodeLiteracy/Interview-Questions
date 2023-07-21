@@ -6,4 +6,7 @@
 
 key를 지정할 때에는 엘리먼트의 고유 식별자인 것이 이상적입니다.그러나 데이터의 고유 식별자가 없는 경우에는 인덱스를 key로 사용할 수도 있지만, 이는 성능에 영향을 줄 수 있으므로 주의해야 합니다.
 
-[인덱스를 key로 사용하는 것이 성능에 영향을 줄 수 있는 이유는 무엇인가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/index%20key.md)
+---
+
+- [인덱스를 key로 사용하는 것이 성능에 영향을 줄 수 있는 이유는 무엇인가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/index%20key.md)
+- [반복 구조에서만 키가 유용한가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/Keys%20in%20Iterated%20Structures.md)
