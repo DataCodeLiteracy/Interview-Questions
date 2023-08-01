@@ -1,10 +1,10 @@
-# Interview-Questions
+# Interview-Questions (33)
 
 면접을 대비하면서 공부한 것들을 하나씩 기록해보자.
 
 ---
 
-- [Interview-Questions](#interview-questions)
+- [Interview-Questions (33)](#interview-questions-33)
     - [JavaScript](#javascript)
     - [React](#react)
     - [Redux](#redux)
@@ -19,7 +19,7 @@
 
 <details open>
     <summary>
-        <span>QUESTION LIST</span>
+        <span>QUESTION LIST (6)</span>
     </summary>
 
 - [클래스 내에 static 키워드가 선언된 정적 메서드는 기본 메서드와 어떤 차이점을 갖고 있을까요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/class%20static%20method.md)
@@ -36,7 +36,7 @@
 
 <details open>
     <summary>
-        <span>QUESTION LIST</span>
+        <span>QUESTION LIST (16)</span>
     </summary>
 
 - [왜 state를 직접 변경하지 않고, useState를 사용해야 하나요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/state%20vs%20useState.md)
@@ -53,6 +53,8 @@
 - [props와 state의 차이는 무엇인가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/props%20vs%20state.md)
 - [리액트를 사용하는 이유에 대해 말씀해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/Why%20use%20React%3F.md)
 - [Angular, Vue와 React의 차이점에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/f1b4a8848435c243f2b6c9cf74cecdd38f9465e7/React/Angular%20vs%20Vue%20vs%20React.md)
+- [클래스 컴포넌트와 함수 컴포넌트의 차이에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/class%20component%20vs%20function%20component.md)
+- [리액트 생명주기에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/react%20component%20lifecycle.md)
 
 </details>
 
@@ -62,7 +64,7 @@
 
 <details open>
     <summary>
-        <span>QUESTION LIST</span>
+        <span>QUESTION LIST (1)</span>
     </summary>
 
 - [Context API와 Redux를 비교해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/Context%20API%20vs%20Redux.md)
@@ -97,7 +99,7 @@
 
 <details open> 
 <summary>
-    <span>QUESTION LIST</span>
+    <span>QUESTION LIST (10)</span>
 </summary>
 
 - [이벤트 루프의 틱(Tick)이나 프레임(Frame)은 무엇인가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/Tick%2CFrame.md)
