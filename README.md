@@ -5,13 +5,13 @@
 ---
 
 - [Interview-Questions (33)](#interview-questions-33)
-    - [JavaScript](#javascript)
-    - [React](#react)
-    - [Redux](#redux)
-    - [TypeScript](#typescript)
-    - [HTML, CSS](#html-css)
-    - [CS](#cs)
-    - [ETC](#etc)
+  - [JavaScript](#javascript)
+  - [React](#react)
+  - [Redux](#redux)
+  - [TypeScript](#typescript)
+  - [HTML, CSS](#html-css)
+  - [CS](#cs)
+  - [ETC](#etc)
 
 ---
 
@@ -36,7 +36,7 @@
 
 <details open>
     <summary>
-        <span>QUESTION LIST (16)</span>
+        <span>QUESTION LIST (17)</span>
     </summary>
 
 - [왜 state를 직접 변경하지 않고, useState를 사용해야 하나요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/state%20vs%20useState.md)
@@ -55,6 +55,7 @@
 - [Angular, Vue와 React의 차이점에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/f1b4a8848435c243f2b6c9cf74cecdd38f9465e7/React/Angular%20vs%20Vue%20vs%20React.md)
 - [클래스 컴포넌트와 함수 컴포넌트의 차이에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/class%20component%20vs%20function%20component.md)
 - [리액트 생명주기에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/react%20component%20lifecycle.md)
+- [리액트와 제이쿼리의 차이점에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/cd136930bb64764eaed50254769ae4882abf833a/React/react%20vs%20jquery.md)
 
 </details>
 
