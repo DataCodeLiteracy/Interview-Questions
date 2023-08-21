@@ -1,10 +1,10 @@
-# Interview-Questions (33)
+# Interview-Questions (35)
 
 면접을 대비하면서 공부한 것들을 하나씩 기록해보자.
 
 ---
 
-- [Interview-Questions (33)](#interview-questions-33)
+- [Interview-Questions (35)](#interview-questions-35)
   - [JavaScript](#javascript)
   - [React](#react)
   - [Redux](#redux)
@@ -36,7 +36,7 @@
 
 <details open>
     <summary>
-        <span>QUESTION LIST (17)</span>
+        <span>QUESTION LIST (18)</span>
     </summary>
 
 - [왜 state를 직접 변경하지 않고, useState를 사용해야 하나요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/state%20vs%20useState.md)
@@ -56,6 +56,7 @@
 - [클래스 컴포넌트와 함수 컴포넌트의 차이에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/class%20component%20vs%20function%20component.md)
 - [리액트 생명주기에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/React/react%20component%20lifecycle.md)
 - [리액트와 제이쿼리의 차이점에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/cd136930bb64764eaed50254769ae4882abf833a/React/react%20vs%20jquery.md)
+- [고차 컴포넌트에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/416eb579c32b7ba3696ca6b91ef826cc3e71b2b0/React/high-order-component.md)
 
 </details>
 
