@@ -1,10 +1,10 @@
-# Interview-Questions (39)
+# Interview-Questions (44)
 
 면접을 대비하면서 공부한 것들을 하나씩 기록해보자.
 
 ---
 
-- [Interview-Questions (39)](#interview-questions-39)
+- [Interview-Questions (44)](#interview-questions-44)
     - [JavaScript](#javascript)
     - [React](#react)
     - [Redux](#redux)
@@ -19,16 +19,20 @@
 
 <details open>
     <summary>
-        <span>QUESTION LIST (7)</span>
+        <span>QUESTION LIST (11)</span>
     </summary>
 
 - [클래스 내에 static 키워드가 선언된 정적 메서드는 기본 메서드와 어떤 차이점을 갖고 있을까요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/class%20static%20method.md)
 - [var, let, const의 차이를 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/var%20vs%20let%20vs%20const.md)
 - [전역 scope를 사용했을 때 장단점에 관해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/global%20scope.md)
-- [실행 컨텍스트에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/execution%20context.md)
+- [실행 컨텍스트에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/excution-context.md)
 - [렉시컬 환경에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/lexical%20environment.md)
 - [스코프란 무엇이고 스코프체인이란 무엇인가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/scope%2C%20scope%20chain.md)
 - [JavaScript의 this에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/this.md)
+- [호이스팅에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/hoisting.md)
+- [이벤트 캡처링과 버블링에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/event-capturing%20vs%20bubbling.md)
+- [클로저에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/closure.md)
+- [Promise와 Callback의 차이를 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/promise%20vs%20callback.md)
 </details>
 
 ---
