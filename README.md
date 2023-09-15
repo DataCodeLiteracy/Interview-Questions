@@ -19,7 +19,7 @@
 
 <details open>
     <summary>
-        <span>QUESTION LIST (16)</span>
+        <span>QUESTION LIST (17)</span>
     </summary>
 
 - [클래스 내에 static 키워드가 선언된 정적 메서드는 기본 메서드와 어떤 차이점을 갖고 있을까요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/class%20static%20method.md)
@@ -38,6 +38,7 @@
 - [attribute와 property의 차이점에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/attribute%20vs%20property.md)
 - [map과 forEach의 차이점에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/map%20vs%20forEach.md)
 - [이벤트 전파와 위임에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/Event%20propagation%20and%20delegation.md)
+- [null, undefined, undeclared, NaN에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/null%2C%20undefined%2C%20undeclared%2C%20NaN.md)
 </details>
 
 ---
