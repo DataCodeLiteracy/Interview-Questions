@@ -1,17 +1,17 @@
-# Interview-Questions (51)
+# Interview-Questions (53)
 
 면접을 대비하면서 공부한 것들을 하나씩 기록해보자.
 
 ---
 
-- [Interview-Questions (51)](#interview-questions-51)
-  - [JavaScript](#javascript)
-  - [React](#react)
-  - [Redux](#redux)
-  - [TypeScript](#typescript)
-  - [HTML, CSS](#html-css)
-  - [CS](#cs)
-  - [ETC](#etc)
+- [Interview-Questions (53)](#interview-questions-53)
+    - [JavaScript](#javascript)
+    - [React](#react)
+    - [Redux](#redux)
+    - [TypeScript](#typescript)
+    - [HTML, CSS](#html-css)
+    - [CS](#cs)
+    - [ETC](#etc)
 
 ---
 
@@ -19,7 +19,7 @@
 
 <details open>
     <summary>
-        <span>QUESTION LIST (19)</span>
+        <span>QUESTION LIST (20)</span>
     </summary>
 
 - [클래스 내에 static 키워드가 선언된 정적 메서드는 기본 메서드와 어떤 차이점을 갖고 있을까요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/class%20static%20method.md)
@@ -41,6 +41,7 @@
 - [null, undefined, undeclared, NaN에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/null%2C%20undefined%2C%20undeclared%2C%20NaN.md)
 - [apply()와 call()의 차이점에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/apply%20vs%20call.md)
 - [AJAX에 관해 가능한 한 자세히 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/Ajax.md)
+- [데이터 타입에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/data-type.md)
 </details>
 
 ---
@@ -138,9 +139,10 @@
 
 <details>
 <summary>
-    <span>QUESTION LIST</span>
+    <span>QUESTION LIST(1)</span>
 </summary>
 
+- [프레임워크와 라이브러리에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/ETC/framework%20vs%20library.md)
 </details>
 
 ---
