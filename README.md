@@ -1,17 +1,17 @@
-# Interview-Questions (55)
+# Interview-Questions (56)
 
 면접을 대비하면서 공부한 것들을 하나씩 기록해보자.
 
 ---
 
-- [Interview-Questions (55)](#interview-questions-55)
-  - [JavaScript](#javascript)
-  - [React](#react)
-  - [Redux](#redux)
-  - [TypeScript](#typescript)
-  - [HTML, CSS](#html-css)
-  - [CS](#cs)
-  - [ETC](#etc)
+- [Interview-Questions (56)](#interview-questions-56)
+    - [JavaScript](#javascript)
+    - [React](#react)
+    - [Redux](#redux)
+    - [TypeScript](#typescript)
+    - [HTML, CSS](#html-css)
+    - [CS](#cs)
+    - [ETC](#etc)
 
 ---
 
@@ -19,7 +19,7 @@
 
 <details open>
     <summary>
-        <span>QUESTION LIST (20)</span>
+        <span>QUESTION LIST (21)</span>
     </summary>
 
 - [클래스 내에 static 키워드가 선언된 정적 메서드는 기본 메서드와 어떤 차이점을 갖고 있을까요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/class%20static%20method.md)
@@ -42,6 +42,7 @@
 - [apply()와 call()의 차이점에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/apply%20vs%20call.md)
 - [AJAX에 관해 가능한 한 자세히 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/Ajax.md)
 - [데이터 타입에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/data-type.md)
+- [Function.prototype.bind을 설명하세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/Function-prototype-bind.md#functionprototypebind%EC%9D%84-%EC%84%A4%EB%AA%85%ED%95%98%EC%84%B8%EC%9A%94)
 </details>
 
 ---
