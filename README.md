@@ -1,10 +1,10 @@
-# Interview-Questions (56)
+# Interview-Questions (57)
 
 면접을 대비하면서 공부한 것들을 하나씩 기록해보자.
 
 ---
 
-- [Interview-Questions (56)](#interview-questions-56)
+- [Interview-Questions (57)](#interview-questions-57)
     - [JavaScript](#javascript)
     - [React](#react)
     - [Redux](#redux)
@@ -140,12 +140,13 @@
 
 <details>
 <summary>
-    <span>QUESTION LIST(3)</span>
+    <span>QUESTION LIST(4)</span>
 </summary>
 
 - [프레임워크와 라이브러리에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/ETC/framework%20vs%20library.md)
 - [API에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/ETC/API.md)
 - [비동기 처리란 무엇인지 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/ETC/Asynchronous-processing.md)
+- [동일 출처 정책에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/ETC/the%20same-origin%20policy.md)
 </details>
 
 ---
