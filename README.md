@@ -1,10 +1,10 @@
-# Interview-Questions (57)
+# Interview-Questions (61)
 
 면접을 대비하면서 공부한 것들을 하나씩 기록해보자.
 
 ---
 
-- [Interview-Questions (57)](#interview-questions-57)
+- [Interview-Questions (61)](#interview-questions-61)
     - [JavaScript](#javascript)
     - [React](#react)
     - [Redux](#redux)
@@ -19,7 +19,7 @@
 
 <details open>
     <summary>
-        <span>QUESTION LIST (21)</span>
+        <span>QUESTION LIST (25)</span>
     </summary>
 
 - [클래스 내에 static 키워드가 선언된 정적 메서드는 기본 메서드와 어떤 차이점을 갖고 있을까요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/class%20static%20method.md)
@@ -43,6 +43,10 @@
 - [AJAX에 관해 가능한 한 자세히 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/Ajax.md)
 - [데이터 타입에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/data-type.md)
 - [Function.prototype.bind을 설명하세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/Function-prototype-bind.md#functionprototypebind%EC%9D%84-%EC%84%A4%EB%AA%85%ED%95%98%EC%84%B8%EC%9A%94)
+- [호스트 객체(Host Objects)와 네이티브 객체(Native Objects)의 차이점은 무엇인가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/Host%20Objects%2C%20Native%20Object.md)
+- [async, await 사용 방법을 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/how%20to%20async%2C%20await.md)
+- [use strict은 무엇이고, 사용했을 때 장단점에 관해서 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/use%20strict.md)
+- [깊은 복사와 얕은 복사에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/deep%20copy%20vs%20shallow%20copy.md)
 </details>
 
 ---
