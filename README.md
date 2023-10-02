@@ -1,10 +1,10 @@
-# Interview-Questions (61)
+# Interview-Questions (63)
 
 면접을 대비하면서 공부한 것들을 하나씩 기록해보자.
 
 ---
 
-- [Interview-Questions (61)](#interview-questions-61)
+- [Interview-Questions (63)](#interview-questions-63)
     - [JavaScript](#javascript)
     - [React](#react)
     - [Redux](#redux)
@@ -47,6 +47,8 @@
 - [async, await 사용 방법을 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/how%20to%20async%2C%20await.md)
 - [use strict은 무엇이고, 사용했을 때 장단점에 관해서 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/use%20strict.md)
 - [깊은 복사와 얕은 복사에 대해 설명해주세요.](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/deep%20copy%20vs%20shallow%20copy.md)
+- [==와 ===의 차이점은 무엇인가요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/%3D%3D%20vs%20%3D%3D%3D.md)
+- [익명함수는 주로 어떤 상황에서 사용하나요?](https://github.com/DataCodeLiteracy/Interview-Questions/blob/main/JavaScript/anonymous-function.md)
 </details>
 
 ---
